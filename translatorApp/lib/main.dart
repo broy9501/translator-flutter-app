@@ -10,7 +10,7 @@ void main() {
 }
 
 // class GoogleTransService {
-//   final String apiKEY = 'AIzaSyBr6T454VsYXsv8sLxXQL1Wb153Ny8PT8M';
+//   final String apiKEY = 'APIKEY';
 
 //   Future<List<Map<String, String>>> supportedLangs({
 //     String target = "en",
